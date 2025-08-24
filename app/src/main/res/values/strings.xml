@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reminder8</string>
+    <string name="reminder_widget_description">Notes</string>
+    <string name="loading">Loading8...</string>
+</resources>
